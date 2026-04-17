@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.97755"
+    ],
+    "filament_settings_id": [
+        "KINGROON HC218BL"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PETG-CF Basic @Bambu Lab A1 0.4 nozzle",
+    "name": "KINGROON HC218BL",
+    "version": "1.10.0.32"
+}

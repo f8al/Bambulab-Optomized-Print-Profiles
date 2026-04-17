@@ -1,0 +1,12 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "KINGROON PLA Basic NPLA006"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PLA Basic @Bambu Lab P1S 0.4 nozzle",
+    "name": "KINGROON PLA Basic NPLA006",
+    "version": "1.9.0.21"
+}

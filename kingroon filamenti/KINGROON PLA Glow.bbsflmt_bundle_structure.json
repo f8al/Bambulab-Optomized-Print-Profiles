@@ -1,0 +1,14 @@
+{
+    "bundle_id": "2737339105_KINGROON PLA Glow_1766979185",
+    "bundle_type": "filament config bundle",
+    "filament_name": "KINGROON PLA Glow",
+    "filament_vendor": [
+        {
+            "filament_path": [
+                "KINGROON/KINGROON PLA Glow @Bambu Lab H2D 0.4 nozzle.json"
+            ],
+            "vendor": "KINGROON"
+        }
+    ],
+    "version": "02.04.00.71"
+}

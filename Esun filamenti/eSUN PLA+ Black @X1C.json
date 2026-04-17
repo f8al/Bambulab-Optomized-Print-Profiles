@@ -1,0 +1,21 @@
+{
+    "default_filament_colour": [
+        "#101010"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ Black"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "eSUN PLA+ Black",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "version": "1.7.0.12"
+}

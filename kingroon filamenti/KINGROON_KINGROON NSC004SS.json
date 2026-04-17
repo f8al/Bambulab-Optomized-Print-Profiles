@@ -1,0 +1,12 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "KINGROON NSC004SS"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PLA Silk @Bambu Lab A1 0.4 nozzle",
+    "name": "KINGROON NSC004SS",
+    "version": "1.10.0.27"
+}

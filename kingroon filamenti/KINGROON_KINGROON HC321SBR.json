@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.9702"
+    ],
+    "filament_settings_id": [
+        "KINGROON HC321SBR"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PLA Matte @Bambu Lab A1 0.4 nozzle",
+    "name": "KINGROON HC321SBR",
+    "version": "1.10.0.32"
+}

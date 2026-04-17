@@ -1,0 +1,18 @@
+{
+    "default_filament_colour": [
+        "#AA0000"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ Firetruck Red"
+    ],
+    "filament_vendor": [
+        "eSUN"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "eSUN PLA+ Firetruck Red",
+    "version": "1.7.0.12"
+}

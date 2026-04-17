@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.97713"
+    ],
+    "filament_settings_id": [
+        "KINGROON PETG Basic(N) A1"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PETG Basic @Bambu Lab A1 0.4 nozzle",
+    "name": "KINGROON PETG Basic(N) A1",
+    "version": "1.10.0.27"
+}

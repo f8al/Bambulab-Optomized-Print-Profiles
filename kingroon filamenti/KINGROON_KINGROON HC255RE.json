@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.92169"
+    ],
+    "filament_settings_id": [
+        "KINGROON HC255RE"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PLA Pro @Bambu Lab A1 0.4 nozzle",
+    "name": "KINGROON HC255RE",
+    "version": "1.10.0.27"
+}

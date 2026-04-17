@@ -1,0 +1,18 @@
+{
+    "default_filament_colour": [
+        "#FFFF00"
+    ],
+    "filament_flow_ratio": [
+        "0.965"
+    ],
+    "filament_settings_id": [
+        "FormFutura PLA (ReFill) Zinc Yellow"
+    ],
+    "filament_vendor": [
+        "FormFutura"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "FormFutura PLA (ReFill) Zinc Yellow",
+    "version": "1.7.0.12"
+}

@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.9702"
+    ],
+    "filament_settings_id": [
+        "KINGROON NSC019RYB"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PLA Silk @Bambu Lab A1 0.4 nozzle",
+    "name": "KINGROON NSC019RYB",
+    "version": "1.10.0.27"
+}

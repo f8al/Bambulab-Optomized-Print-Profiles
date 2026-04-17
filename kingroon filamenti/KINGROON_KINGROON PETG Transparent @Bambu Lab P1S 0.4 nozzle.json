@@ -1,0 +1,39 @@
+{
+    "fan_max_speed": [
+        "0"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.01"
+    ],
+    "filament_settings_id": [
+        "KINGROON PETG Transparent @Bambu Lab P1S 0.4 nozzle"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PETG Basic @Bambu Lab P1S 0.4 nozzle",
+    "name": "KINGROON PETG Transparent @Bambu Lab P1S 0.4 nozzle",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "220"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "1.10.0.27"
+}

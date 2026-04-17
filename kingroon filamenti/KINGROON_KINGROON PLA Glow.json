@@ -1,0 +1,13 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "KINGROON PLA Glow"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PLA Basic @Bambu Lab H2D 0.4 nozzle",
+    "name": "KINGROON PLA Glow",
+    "version": "2.0.0.76"
+}

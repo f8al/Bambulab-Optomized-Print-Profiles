@@ -1,0 +1,23 @@
+{
+    "bundle_id": "2737339105_KINGROON PETG-CF Basic_1766979185",
+    "bundle_type": "filament config bundle",
+    "filament_name": "KINGROON PETG-CF Basic",
+    "filament_vendor": [
+        {
+            "filament_path": [
+                "KINGROON/KINGROON HC218BL.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab A1 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab A1 mini 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab H2D 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab H2S 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab P1P 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab P1S 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab P2S 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab X1 0.4 nozzle.json",
+                "KINGROON/KINGROON PETG-CF Basic @Bambu Lab X1 Carbon 0.4 nozzle.json"
+            ],
+            "vendor": "KINGROON"
+        }
+    ],
+    "version": "02.04.00.71"
+}

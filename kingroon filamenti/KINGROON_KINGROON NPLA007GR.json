@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.9702"
+    ],
+    "filament_settings_id": [
+        "KINGROON NPLA007GR"
+    ],
+    "from": "User",
+    "inherits": "KINGROON PLA Basic @Bambu Lab A1 0.4 nozzle",
+    "name": "KINGROON NPLA007GR",
+    "version": "1.10.0.27"
+}
