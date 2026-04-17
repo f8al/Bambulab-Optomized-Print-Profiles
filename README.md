@@ -1,5 +1,9 @@
 # Bambu Lab Filament Profile Extractor
+## DISCLAIMER:
+### ALL PROFILES IN THIS REPO WERE DEVELOPED BY [3Dmanufactory.italy](https://makerworld.com/en/@Carlo.st) I AM NOT THE CREATOR OF THE PROFILES, ALL CREDIT GOES TO HIM. I AM ONLY THE CREATOR OF THE BASH AND POWERSHELL SCRIPTS
 
+
+# WHAT THIS IS
 A pair of scripts (Bash and PowerShell) that extract third-party filament profiles from the
 Bambu Lab community profile pack and consolidate them into a single folder for a specific
 printer, ready to import into Bambu Studio or Orca Slicer.
